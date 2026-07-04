@@ -1,0 +1,11 @@
+name = "vidoystream"
+main = "index.js"
+compatibility_date = "2026-05-21"
+
+[[routes]]
+pattern = "cdn2.slirpdrive.com"
+custom_domain = true
+
+[vars]
+# Tempat environment variabel jika nanti dibutuhkan
+
